@@ -1116,9 +1116,9 @@ body{
     z-index: 1000;
     transition: .5s;
     cursor: pointer;
-    animation: scaleCat 1s 4.2s forwards;
+    animation: scaleDRAGON 1s 4.2s forwards;
 }
-@keyframes scaleCat{
+@keyframes scaleDRAGON{
     0%{
         opacity: 0;
         top: 50%;
