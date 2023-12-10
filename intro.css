@@ -1844,7 +1844,7 @@ body{
 .box-slider_img1.active{
    animation: activeScale 1s 1.2s forwards;
 }
-.DRAGON.active{
+.cat.active{
    animation: activeScale 1s 1s forwards;
 }
 .box-number.active{
