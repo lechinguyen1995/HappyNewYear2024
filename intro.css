@@ -1107,7 +1107,7 @@ body{
     filter: blur(8px);
     z-index: -1;
 }
-.cat{
+.DRAGON{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1132,10 +1132,10 @@ body{
         transform: translate(-50%, -50%) scale(1);
     }
 }
-.cat:hover{
+.DRAGON:hover{
     filter: drop-shadow(0 0 25px rgb(255, 255, 0));
 }
-.cat img{
+.DRAGON img{
     width: 190px;
     margin-top: -5rem;
 }
@@ -1844,7 +1844,7 @@ body{
 .box-slider_img1.active{
    animation: activeScale 1s 1.2s forwards;
 }
-.cat.active{
+.DRAGON.active{
    animation: activeScale 1s 1s forwards;
 }
 .box-number.active{
