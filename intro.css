@@ -1137,7 +1137,7 @@ body{
 }
 .DRAGON img{
     width: 210px;
-    margin-top: +0rem;
+    margin-top: -1rem;
 }
 .box-rim{
     position: absolute;
