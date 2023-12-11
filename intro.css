@@ -1135,16 +1135,11 @@ body{
 .DRAGON:hover{
     filter: drop-shadow(0 0 25px rgb(255, 255, 0));
 }
-.DRAGON img {
-    width: 190px; /* Chiều rộng của hình ảnh */
-    position: relative; /* Thiết lập vị trí tương đối */
-    top: 50%; /* Di chuyển hình ảnh xuống 50% so với phần tử cha */
-    transform: translateY(-50%); /* Điều chỉnh vị trí dọc của hình ảnh để căn giữa chính xác */
-}
-/*.DRAGON img{
-    width: 190px;
+
+.DRAGON img{
+    width: 150px;
     margin-top: -5rem;
-}*/
+}
 .box-rim{
     position: absolute;
     width: 100%;
